@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/about-us", "destination": "/about-us/index.html" },
+    { "source": "/sample-page", "destination": "/sample-page/index.html" }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false
+}
